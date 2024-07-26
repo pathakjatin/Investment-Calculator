@@ -1,7 +1,11 @@
+import InputValue from "./components/InputValue";
+
 function App() {
   return (
-    <p>Coming soon...</p>
-  )
+    <>
+      <InputValue />
+    </>
+  );
 }
 
 export default App;
